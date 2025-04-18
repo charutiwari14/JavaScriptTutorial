@@ -26,10 +26,10 @@ let nulldt=null
 
 //object
 
-// console.log(typeof 6);
-// console.log(typeof age);
-// console.log(typeof state);
-// console.log(typeof name); 
+// console.log(typeof 6);=>Number
+// console.log(typeof age);=>Number
+// console.log(typeof state);=>undefined
+// console.log(typeof name); =>String
 
 console.log(typeof undefined); //=>undefined
 console.log(typeof null); //=>Object
