@@ -17,12 +17,21 @@
 // console.log(undefined<=0);
 
 
-console.log("2"==2);
-console.log(true==1);
+// console.log("2"==2);
+// console.log(true==1);
 
 
-//Strict check === It checks data type as well as value
-console.log("2"===2);
+// //Strict check === It checks data type as well as value
+// console.log("2"===2);
 
 
+// // Symbol makes things unique
 
+// const id=Symbol(123)
+// const id2=Symbol(123)
+
+// console.log(id==id2);// false as id as well as id2 is unique 
+
+
+const bigNumber=5548n
+console.log(typeof bigNumber);
