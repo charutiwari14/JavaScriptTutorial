@@ -7,8 +7,12 @@
 
 
 // //(2)let score="50mew" 
-// let score=false
+// let score=" "
 // console.log(typeof (score));
+// console.log(Number(score));//=>0
+// console.log(Boolean(score));//=>true
+
+
 
 // let valueInNumber=Number(score)
 // console.log(typeof (valueInNumber)); 
@@ -35,11 +39,58 @@ undefined=>NaN
 //""=>false
 //"anything"=>true
 
-let koisaNumber=14
+// let koisaNumber=14
 
-let stringKoisaNumber=String(koisaNumber)
-console.log(stringKoisaNumber);
-console.log(typeof stringKoisaNumber);
+// let stringKoisaNumber=String(koisaNumber)
+// console.log(stringKoisaNumber);
+// console.log(typeof stringKoisaNumber);
+
+/************************************************Operations************************************************/
+
+// let value=6
+// let negValue = -value
+// // console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(3**2);
+// console.log(2/3);
+// console.log(3%4);
+
+
+// Concatenate
+// let str1="Hello"
+// let str2=" Charu"
+
+// let str3= str1+str2
+// console.log(str3);
+
+// let str4=str1-str2
+// console.log(str4);
+
+// console.log("1"+2);
+// console.log(1 +"2");
+
+// console.log("1"+(2+2))
+// console.log(1+2+"2");
+// console.log(1+4+"hola"+2+9);
+
+console.log(+true);
+console.log(+"");
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
