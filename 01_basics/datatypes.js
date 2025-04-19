@@ -24,7 +24,7 @@ let nulldt=null
 //symbol=> //unique h // react n components mai useful hota hai
 
 
-//object
+//object, Arrays, Functions
 
 // console.log(typeof 6);=>Number
 // console.log(typeof age);=>Number
